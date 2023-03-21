@@ -4,7 +4,7 @@ using RiskService from '../../srv/risk-service';
 annotate RiskService.Risks with @(UI : {
     HeaderInfo      : {
         TypeName       : 'Risk',
-        TypeNamePlural : 'Riskens',
+        TypeNamePlural : 'Risikens',
         Title          : {
             $Type : 'UI.DataField',
             Value : title
